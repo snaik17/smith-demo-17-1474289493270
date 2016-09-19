@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: smith-demo-17
+  host: smith-demo-17
+  disk_quota: 1024M
